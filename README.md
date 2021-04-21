@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tendrekiwi
+- 👋 Hi, I’m @tendrekiwi.
 - 👀 I’m interested in video games and programmation.
 - 🌱 I’m currently working on commander software and commander AI.
-- 📫 How to reach me at tendrekiwi.com@gmail.com
+- 📫 You can reach me at tendrekiwi.com@gmail.com.
